@@ -1,0 +1,41 @@
+@import "@material/button/mdc-button";
+
+html, body  {
+  background-color: white;
+}
+
+.white  {
+  color: white;
+}
+
+.italics  {
+  font-style: bold;
+}
+
+.red  {
+  color: red;
+}
+
+.mapDiv {
+  height:100%;
+  width:100%;
+}
+
+#dogImage {
+  max-width: 800px;
+  max-height: 800px;
+}
+
+#chartContainer {
+  width: 100%;
+  height: auto;
+}
+
+#map {
+  height: 100%;
+}
+
+.mdc-button .mdc-button--raised {
+  color: white;
+  height: 500px;
+}
